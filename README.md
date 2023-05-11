@@ -7,7 +7,7 @@ start버튼을 누른 채로 아두이노에 전원을 인가하면 ADOFAI(A Dan
 # 사용 부품
 1 * Arduino Pro Micro
 
-2 * 로터리 엔코더(PEC12R-4220F-N0024)
+2 * 로터리 엔코더(~PEC12R-4220F-N0024~/PEC16R-4020F-N0024)
 
 6 * 키보드 청축 스위치
 
